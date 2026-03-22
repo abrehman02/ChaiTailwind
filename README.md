@@ -32,11 +32,12 @@ A lightweight utility-first CSS engine built using JavaScript.
 
 ## 🌍 Live Demo
 
-[PASTE YOUR NETLIFY LINK]
+[ https://benevolent-squirrel-385703.netlify.app/ ]
+{video_link :  ' https://drive.google.com/file/d/1eluCNvzs4infW2Q1U4tzuqGmxrV6KyU0/view?usp=sharing ' }
 
 ## 📦 GitHub
 
-[PASTE YOUR GITHUB LINK]
+[ 'https://github.com/abrehman02/ChaiTailwind' ]
 
 ## 🎯 Inspiration
 
